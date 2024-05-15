@@ -150,7 +150,7 @@ var ModelMapping = {
   // "gpt-4": "gemini-1.0-ultra-latest",
   "gpt-4-vision-preview": "gemini-1.0-pro-vision-latest",
   "gpt-4-turbo": "gemini-1.5-pro-latest",
-  "gpt-4-turbo-preview": "gemini-1.5-pro-latest"
+  "gpt-4-turbo-preview": "gemini-1.5-pro-latest",
   "gpt-4-turbo-flash": "gemini-1.5-flash-latest"
 };
 function getRuntimeKey() {
